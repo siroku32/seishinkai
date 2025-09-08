@@ -1,0 +1,1 @@
+export default function Dashboard(){return <div className='p-4'><h1 className='text-xl font-bold'>Dashboard - 正真会憲法</h1></div>}

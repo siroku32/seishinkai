@@ -1,0 +1,1 @@
+export default function Owner(){return <div className='p-4'>Owner Page</div>}
